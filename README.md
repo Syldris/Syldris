@@ -1,6 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Unity%20Client%20Developer&animation=&fontColor=000000&fontSize=70" />
-    <p>항상 포기하지 않고 노력하는 개발자가 되겠습니다.</p>
+    <h2>항상 포기하지 않고 노력하는 개발자가 되겠습니다.</h2>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
