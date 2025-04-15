@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
      </div>
-    <a href="https://solved.ac/profile/hojeong6777">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hojeong6777" alt="Solved.ac 프로필">
+    <a href="https://solved.ac/hojeong6777" target="_blank" rel="noopener noreferrer">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hojeong6777&cache=1" alt="Solved.ac 프로필">
     </a>
     </div>
