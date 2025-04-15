@@ -17,3 +17,4 @@
         [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hojeong6777)](https://solved.ac/hojeong6777)
     </div>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojeong6777)](https://solved.ac/hojeong6777)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cumic)](https://solved.ac/cumic) (테스트용)
