@@ -15,4 +15,5 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
      </div>
     </div>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojeong6777)] (https://solved.ac/profile/hojeong6777)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
